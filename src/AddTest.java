@@ -8,5 +8,9 @@ public class AddTest {
 
         System.out.println(lambdaAdd.add(2, 3)); // 람다식 호출
         System.out.println(lambdaAdd2.add(3, 4)); // 람다식 호출
+
+        // 결과
+        // 5
+        // 7
     }
 }
